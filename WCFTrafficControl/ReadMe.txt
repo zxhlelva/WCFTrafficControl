@@ -1,0 +1,1 @@
+http://localhost:8815/OrganizitionService/RetrieveOrganizitions?alt=xml
